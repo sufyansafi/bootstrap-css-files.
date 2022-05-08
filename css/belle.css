@@ -1,0 +1,395 @@
+  *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box1{
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.belle{
+    color: black;
+    margin-left: 70px;
+}
+
+.a{
+    margin-left: 150px;
+    font-weight: bold;
+    
+}
+
+.b{
+    margin: 0px 5px 0px 0px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.btn-b1{
+    color: red;
+    width: 100%;
+    background: transparent;
+    border: 1px solid red;
+    padding: 5px 15px 5px 15px;
+    cursor: pointer;
+}
+.btn-b1:hover{
+    color: black;
+    background-color:  red;
+}
+
+/*navbar end*/
+.box2{
+    box-sizing: border-box;
+}
+
+.lux{
+    margin-top: 100px;
+    margin-left: 130px;
+    font-style: bolder;
+    font-size: 55px;
+}
+.btn-b2{
+    margin-top: 50px;
+    margin-left: 130px;
+    opacity: 0.5;
+    background-color: red;
+    columns: white;
+    border: none;
+    padding: 10px 20px 10px 20px;
+}
+.p4{
+    width: 100%;
+    
+}
+/*secnd box end*/
+
+/*third part*/
+.box3{
+     box-sizing: border-box;
+
+     
+ }
+ .how{
+     text-align: center;
+     font-size: large;
+     font-style: bolder;
+     margin-top: 30px;
+     
+     
+ }
+ .lorem{
+     text-align: center;
+ }
+
+.c1{
+    background-color: orangered;
+width: 50%;
+height: 150px;
+  margin-top: 60px;
+    border-radius: 100%;
+    text-align: center;
+    line-height:150px;
+    color: wheat;
+    font-weight: bolder;
+    opacity: 0.5;
+    cursor: pointer;
+    position: relative;
+    left: 70px;
+
+}
+.c2{
+    background-color: orangered;
+    line-height:150px;
+    width: 50%;
+    height: 150px;
+    margin-top: 60px;
+        border-radius: 100%;
+    text-align: center;
+        color: wheat;
+        font-weight: bolder;
+        opacity: 0.5;
+        cursor: pointer;
+        position: relative;
+        left: 70px;
+}
+.c3{
+    background-color: orangered;
+    line-height:150px;
+    width: 50%;
+    height: 150px;
+    margin-top: 60px;
+        border-radius: 100%;
+        text-align: center;
+        color: wheat;
+        font-weight: bolder;
+        opacity: 0.5;
+        cursor: pointer; 
+        position: relative;
+        left: 70px;      
+}
+
+/*box 4 start*/
+
+.box4{
+    margin-top: 30px;
+    box-sizing: border-box;
+    background-color:rgb(53, 32, 32);
+    padding-bottom: 50px;
+}
+.im{
+    text-align: center;
+    color: blanchedalmond;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 50px;
+}
+
+.date{
+    margin-left: 20px;
+}
+/*box4 end*/
+/*box5 start */
+
+.box5{
+    box-sizing: border-box;
+    margin-top: 50px;
+}
+.girl{
+position: absolute;
+left: 50px;
+}
+.cir{
+    position: relative;
+    z-index: 1;
+    opacity: 0.5;
+    left: -50px;
+    
+}
+.find{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+}
+.styl{
+    color: palevioletred;
+    font-style: italic;
+    font-size: large;
+    font-size: 100px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+.ipsum{
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif\;
+
+}
+.btn-b3{
+    color: whitesmoke;
+    background-color: red;
+    padding: 10px 20px 10px 20px;
+    border: none;
+    font-weight: lighter;
+    opacity: 0.3;
+    margin-top: 50px;
+}
+/*box5 end */
+/*box6 start */
+.box6{
+    margin-top: 200px;
+    box-sizing: border-box;
+    background-color:whitesmoke;
+}
+.season{
+    margin-left:100px;
+}
+.dolor{
+    font-weight: bold;
+    color: black;
+    cursor: pointer;
+    font-size: 20px;
+    margin-left: 100px;
+}
+.box7{
+    box-sizing: border-box;
+    background-color:whitesmoke;
+    padding-top: 50px;
+}
+
+.chinese
+{
+    opacity: 0.3;
+}
+.lft{
+background: rgba(239, 240, 241, 0);
+border: none;
+color:palevioletred ;
+width: 30px;
+text-align: center;
+padding: 5px 5px 5px 5px;
+}
+.rit{
+    background:rgb(155, 92, 113) ;
+border: none;
+color:whitesmoke;
+padding: 5px 5px 5px 5px;
+width: 30px;
+text-align: center;
+
+}
+.box8{
+    box-sizing: "border-box";
+    text-align: center;
+    background-image: linear-gradient(rgba(523,123 ,255 ,0.4),rgba(123,654,125,0.7),rbga(678,33,512,0.7));
+}
+.the{
+    text-align: center;
+    font-style: italic;
+    font-family: sans-serif;
+    color: whitesmoke;
+    cursor: pointer;
+    margin-top: 100px;
+}
+.btn-b4{
+    color: whitesmoke;
+    background-color:rgba(255, 20, 20, 0.7);
+    border: none;
+    padding: 15px 25px 15px 25px;
+    opacity: 0.3;
+    font-weight: bold;
+    
+}
+.box9{
+    box-sizing: border-box;
+    margin-top: 30px;
+
+}
+.al,.cat{
+display: inline;
+}
+.badgl{
+    padding-bottom: 50px;
+}
+.btn-b5{
+    color: wheat;
+    background-color: palevioletred;
+    padding: 10px 50px 10px 50px;
+    border: none;
+    cursor: pointer;
+    opacity: 0.9;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+.thinking{
+text-align: right;
+}
+.box10{
+box-sizing: border-box;
+
+}
+
+.bag{
+    margin-top: 100px;
+}
+.use{
+    font-weight: bold;
+    font-style: oblique;
+    font-family: 'Times New Roman', Times, serif;
+}
+.just{
+    color: palevioletred;
+}
+.check{
+    color: palevioletred; 
+}
+.right{
+        color: palevioletred;
+}
+.makeup{
+    position: relative;
+    z-index: -1;
+}
+.circle{
+    position: absolute;
+    right: 0px;
+    margin-top: 50px;
+    opacity: 0.8;
+}
+.box11{
+box-sizing: border-box;
+margin-top: 100px;
+}
+.our{
+    
+    margin-top: 100px;
+    margin-left: 50px;
+}
+.sit{
+    margin-left: 50px;
+}
+ 
+.leaves{
+    position: relative;
+
+right: 50px;
+}
+
+
+.poda{
+    position: relative;
+    z-index: 1;
+    left:40%;
+    bottom:30%;
+}
+
+.box12{
+    box-sizing: border-box;
+    margin-top: 100px;
+    background-color: whitesmoke;
+}
+.partner{
+margin-top: 50px;
+    color: black;
+    font-weight: bold;
+    font-family:  serif;
+}
+.box13{
+    box-sizing: border-box;
+    background-color: whitesmoke;
+    padding-bottom: 100px;
+}
+.box14{
+    box-sizing: border-box;
+    background-color: black;
+}
+.icons{
+    color: blue;
+}
+
+.box15{
+    box-sizing: border-box;
+    background-color: black;
+    padding-bottom: 50px;
+}
+
+
+ 
+
+
+ /* Extra large devices (large laptops and desktops, 1200px and up) */
+
+ 
+  @media only screen and (min-width: 992px) {
+     .box11{
+     background-color: aqua;
+     }
+   }
+ 
+   @media only screen and (max-width: 1200px) {
+     .box11{
+         background-color:
+     }
+   }
+ 
+ 

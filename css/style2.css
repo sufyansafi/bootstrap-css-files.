@@ -1,0 +1,64 @@
+
+
+.c2{
+    margin-top: 100px;
+
+}
+
+.icon{
+height: 200px;
+    width: 200px;
+
+}
+.c6{
+    margin-top: 100px;
+
+}
+.c7{
+    margin-top: 100px;
+    animation-name: safi;
+    background-color: green;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    margin-top: 90px;
+width: 50%;
+}
+.c5{
+    margin-top: 100px;
+}
+.c3{
+     margin-top: 100px;
+}
+.c4{
+    
+    margin-top: 100px;
+}
+
+.c8{
+    margin-top: 30px;
+}
+
+
+
+.hb{
+    padding-top: 90px;
+}
+.butn{
+    padding-top: 90px;
+}
+.pix{
+    padding: 50px;
+}
+.c1:hover{
+    background-color: aqua;
+    transition-timing-function: ease;
+    border: black 5px solid;
+    animation-iteration-count: infinite;
+    
+}
+@keyframes safi{
+    from{ background-color:green;}
+    to{background-color: black;}
+from{ width: 50%;}
+to{ width: 100%;}
+}
